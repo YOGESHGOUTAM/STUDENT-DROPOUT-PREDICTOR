@@ -1,0 +1,12 @@
+flagsagger
+flask
+torch
+fastapi
+uvicorn
+scikit-learn
+joblib
+optuna
+ucimlrepo
+numpy
+pandas
+streamlit
